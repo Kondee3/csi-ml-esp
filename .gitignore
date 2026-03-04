@@ -1,0 +1,9 @@
+build/**
+managed_components/** 
+.cache/**
+main/secrets.h
+**/secrets.h
+cmake-build-debug/**
+cmake-build-debug-visual/**
+.idea/**
+compile_flags.txt
